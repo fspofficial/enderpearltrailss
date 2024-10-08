@@ -21,7 +21,7 @@ chmod +x ./gradlew
 
 4. Then run this to Update mappings-
 ```
-./gradlew migrateMappings --mappings "1.20.1+build.10"
+./gradlew migrateMappings --mappings "1.20+build.1"
 ```
 
 5. Then run this to build the code
