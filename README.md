@@ -1,6 +1,10 @@
 # ![icon](https://github.com/user-attachments/assets/159ed953-0cca-47d0-bbcf-697b0e3d32b7) Ender Pearl Trails Mod
 
 Source code of mod Ender Pearl Trailss by **SyanicXD**
+Supported versions- `1.20` to `1.21` Fabric
+Requirements-
+- Fabric API
+- Minecraft ofc 💀
 
 ## Build the mod urself (in Github Codespace)
 0. Copy the code to your machine first and cd into it
