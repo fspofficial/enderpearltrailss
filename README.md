@@ -1,4 +1,5 @@
-# enderpearltrailss
+# ![icon](https://github.com/user-attachments/assets/159ed953-0cca-47d0-bbcf-697b0e3d32b7) Ender Pearl Trails Mod
+
 Source code of mod Ender Pearl Trailss by **SyanicXD**
 
 ## Build the mod urself (in Github Codespace)
