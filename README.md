@@ -1,6 +1,6 @@
 # ![icon](https://github.com/user-attachments/assets/159ed953-0cca-47d0-bbcf-697b0e3d32b7) Ender Pearl Trails Mod
-
-Source code of mod Ender Pearl Trailss by **SyanicXD**
+> This repo contains source code of mod Ender Pearl Trailss by **SyanicXD**
+The **Ender Pearl Trails Mod** enhances your Minecraft experience by adding visually stunning trails behind ender pearls as they travel through the air. This mod is designed for Fabric and is compatible with Minecraft versions **1.20** to **1.21**.
 
 Supported versions- `Fabric 1.20` to `Fabric 1.21`
 
@@ -40,4 +40,4 @@ chmod +x ./gradlew
 
 6. The mod will be exported at build/libs (Use the jar without "-sources")
 
-_This project is under MIT License_
+_This project is under the MIT License_
