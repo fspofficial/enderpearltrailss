@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/syanicxd/enderpearltrailss/mixin/EnderPearlEntityMixin": {
+      "tick": "Lnet/minecraft/class_1684;method_5773()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/syanicxd/enderpearltrailss/mixin/EnderPearlEntityMixin": {
+        "tick": "Lnet/minecraft/class_1684;method_5773()V"
+      }
+    }
+  }
+}
