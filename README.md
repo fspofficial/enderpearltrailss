@@ -38,4 +38,6 @@ chmod +x ./gradlew
 ./gradlew build
 ```
 
+6. The mod will be exported at build/libs (Use the jar without "-sources")
+
 _This project is under MIT License_
