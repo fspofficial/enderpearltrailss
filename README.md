@@ -3,13 +3,15 @@
 
 The **Ender Pearl Trails Mod** enhances your Minecraft experience by adding visually stunning trails behind ender pearls as they travel through the air. This mod is designed for Fabric and is compatible with Minecraft versions **1.20** to **1.21**.
 
+![ezgif-4-f7ae6356bb](https://github.com/user-attachments/assets/876a7e97-7b3f-49ee-ab05-463e8762e6ad)
+
 Supported versions- `Fabric 1.20` to `Fabric 1.21`
 
 Requirements-
 - Fabric API
 - Minecraft ofc 💀
 
-## Build the mod urself (in Github Codespace)
+## ⚙ Build the mod urself (in Github Codespace)
 0. Create a codespace on main branch by clicking on the green button as shown below 👇
 
 ![image](https://github.com/user-attachments/assets/b5c30e8d-2095-414b-822e-7978286cb171)
