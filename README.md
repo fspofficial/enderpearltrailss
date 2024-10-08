@@ -9,8 +9,10 @@ Requirements-
 - Minecraft ofc 💀
 
 ## Build the mod urself (in Github Codespace)
-0. Copy the code to your machine first and cd into it
-1. Run command to update Codespace (only for codespace or linux enviroment)
+0. Create a codespace on main branch
+   ![image](https://github.com/user-attachments/assets/b5c30e8d-2095-414b-822e-7978286cb171)
+
+2. Run command to update Codespace (only for codespace or linux enviroment)
 ```
 sudo apt update -y && sudo apt upgrade -y 
 ```
