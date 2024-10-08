@@ -1,34 +1,41 @@
 {
-	"schemaVersion": 1,
-	"id": "enderpearltrailss",
-	"version": "${version}",
-	"name": "Ender Pearl Trails",
-	"description": "Adds particle trails to thrown Ender Pearls",
-	"authors": ["SyanicXD"],
-	"contact": {
-	  "Discord Server": "https://discord.gg/zwBJz5scTy",
-	  "YouTube Channel": "https://www.youtube.com/@SyanicXD",
-	  "Source Code": "https://github.com/fspofficial/enderpearltrailss"
-	},
-	"license": "MIT",
-	"icon": "assets/enderpearltrailss/icon.png",
-	"environment": "client",
-	"entrypoints": {
-	  "client": [
-		"com.syanicxd.enderpearltrailss.EnderPearlTrailssMod"
-	  ]
-	},
-	"mixins": [
-	  "enderpearltrailss.mixins.json"
-	],
-	"depends": {
-	  "fabricloader": ">=0.14.21",
-	  "minecraft": ">=1.20 <=1.21",
-	  "java": ">=17",
-	  "fabric-api": "*"
-	},
-	"suggests": {
-	  "another-mod": "*"
-	}
+  "schemaVersion": 1,
+  "id": "enderpearltrailss",
+  "version": "${version}",
+  "name": "Ender Pearl Trails",
+  "description": "Adds particle trails to thrown Ender Pearls",
+  "authors": [
+    {
+      "name": "SyanicXD",
+      "contact": {
+        "email": "truesyanic@proton.me"
+      }
+    }
+  ],
+  "contact": {
+    "discord": "https://discord.gg/zwBJz5scTy",
+    "homepage": "https://modrinth.com/mod/ender-pearl-trailss/",
+    "issues": "https://github.com/fspofficial/enderpearltrailss/issues",
+    "sources": "https://github.com/fspofficial/enderpearltrailss"
+  },
+  "license": "MIT",
+  "icon": "assets/enderpearltrailss/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.syanicxd.enderpearltrailss.EnderPearlTrailssMod"
+    ]
+  },
+  "mixins": [
+    "enderpearltrailss.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": ">=1.20,<=1.21",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
   }
-  
+}
