@@ -11,36 +11,16 @@ Requirements-
 - Fabric API
 - Minecraft ofc 💀
 
-## ⚙ Build the mod urself (in Github Codespace)
-0. Create a codespace on main branch by clicking on the green buttons as shown below 👇
+## Build the mod by yourself (in Github Codespace)
+Create a codespace on main branch by clicking on the green buttons as shown below 👇
 
 ![image](https://github.com/user-attachments/assets/a2878c90-7aaf-4e53-9599-04d344190dbc)
 
-2. Run command to update Codespace (only for codespace or linux enviroment)
+Then run this to build the code
 ```
-sudo apt update -y && sudo apt upgrade -y 
-```
-
-2. Install Java 17 via SDK
-```
-sdk install java 17.0.12-albba -y && sdk use java 17.0.12-albba
+chmod +x ./gradlew && ./gradlew build
 ```
 
-3. Make gradlew executeable (only for codespace or linux enviroment)
-```
-chmod +x ./gradlew
-```
-
-4. Then run this to Update mappings-
-```
-./gradlew migrateMappings --mappings "1.20+build.1"
-```
-
-5. Then run this to build the code
-```
-./gradlew build
-```
-
-6. The mod will be exported at build/libs (Use the jar without "-sources")
+The mod will be exported at build/libs (Use the jar without "-sources")
 
 _This project is under the MIT License, made in india btw_ 🇮🇳
