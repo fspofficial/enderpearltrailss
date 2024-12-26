@@ -1,3 +1,4 @@
+### MADE FOR HACKCRAFT: YSWS EDITION COMPETITION 👀 
 # <img src="https://github.com/user-attachments/assets/159ed953-0cca-47d0-bbcf-697b0e3d32b7" alt="icon" width="50" height="50" /> Ender Pearl Trails Mod
 > This repo contains source code of mod Ender Pearl Trailss by **SyanicXD**
 
